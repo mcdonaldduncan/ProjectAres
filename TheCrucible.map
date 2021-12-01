@@ -10498,7 +10498,7 @@
 {
 "classname" "func_button"
 "angle" "180"
-"target" "door2"
+"target" "doorK"
 // brush 0
 {
 ( -300 -847 322 ) ( -300 -846 322 ) ( -300 -847 323 ) +0button_1 [ 0 -1 0 17 ] [ 0 0 -1 -22 ] 0 1 1
