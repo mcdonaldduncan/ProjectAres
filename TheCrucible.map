@@ -4,7 +4,7 @@
 {
 "mapversion" "220"
 "classname" "worldspawn"
-"wad" "C:/QuakeDev/wads/id1.wad;C:/QuakeDev/wads/Crucible1.wad;C:/QuakeDev/wads/prototype_1_3.wad"
+"wad" "C:/QuakeDev/wads/id1.wad;C:/QuakeDev/wads/Crucible1.wad;C:/QuakeDev/wads/prototype_1_3.wad;C:/QuakeDev/wads/rogue.wad"
 // brush 0
 {
 ( 32 0 112 ) ( 32 1 112 ) ( 32 0 113 ) city5_8 [ 0 1.0000000000000002 0 0 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
@@ -5179,12 +5179,12 @@
 "wait" "-1"
 // brush 0
 {
-( -196 -88 144 ) ( -196 -87 144 ) ( -196 -88 145 ) +1shoot [ 0 -1 0 -16 ] [ 0 0 -1 0 ] 0 1 1
-( -196 -112 144 ) ( -196 -112 145 ) ( -195 -112 144 ) +1shoot [ 1 0 0 -8 ] [ 0 0 -1 0 ] 0 1 1
-( -196 -88 96 ) ( -195 -88 96 ) ( -196 -87 96 ) +1shoot [ -1 0 0 8 ] [ 0 -1 0 -16 ] 0 1 1
-( -188 -56 144 ) ( -188 -55 144 ) ( -187 -56 144 ) +1shoot [ 1 0 0 -8 ] [ 0 -1 0 -16 ] 0 1 1
-( -188 -64 152 ) ( -187 -64 152 ) ( -188 -64 153 ) +1shoot [ -1 0 0 8 ] [ 0 0 -1 0 ] 0 1 1
-( -188 -56 152 ) ( -188 -56 153 ) ( -188 -55 152 ) +1shoot [ 0 1 0 16 ] [ 0 0 -1 0 ] 0 1 1
+( -197 -88 144 ) ( -197 -87 144 ) ( -197 -88 145 ) +1shoot [ 0 -1 0 -16 ] [ 0 0 -1 0 ] 0 1 1
+( -197 -112 144 ) ( -197 -112 145 ) ( -196 -112 144 ) +1shoot [ 1 0 0 -8 ] [ 0 0 -1 0 ] 0 1 1
+( -197 -88 96 ) ( -196 -88 96 ) ( -197 -87 96 ) +1shoot [ -1 0 0 8 ] [ 0 -1 0 -16 ] 0 1 1
+( -189 -56 144 ) ( -189 -55 144 ) ( -188 -56 144 ) +1shoot [ 1 0 0 -8 ] [ 0 -1 0 -16 ] 0 1 1
+( -189 -64 152 ) ( -188 -64 152 ) ( -189 -64 153 ) +1shoot [ -1 0 0 8 ] [ 0 0 -1 0 ] 0 1 1
+( -189 -56 152 ) ( -189 -56 153 ) ( -189 -55 152 ) +1shoot [ 0 1 0 16 ] [ 0 0 -1 0 ] 0 1 1
 }
 }
 // entity 4
@@ -5196,12 +5196,12 @@
 "wait" "-1"
 // brush 0
 {
-( 376 -120 203.875 ) ( 376 -120 202.875 ) ( 376 -119 203.875 ) +1shoot [ -6.123233995736766e-17 0 1 0 ] [ 0 -1 0 0 ] 0 1 1
-( 424 -144 203.875 ) ( 425 -144 203.875 ) ( 424 -144 202.875 ) +1shoot [ 6.123233995736766e-17 0 -1 0 ] [ -1 0 -6.123233995736766e-17 40 ] 90 1 1
-( 432 -88 195.875 ) ( 433 -88 195.875 ) ( 432 -87 195.875 ) +1shoot [ 0 1 0 0 ] [ -1 0 -6.123233995736766e-17 40 ] 0 1 1
-( 424 -120 203.875 ) ( 424 -119 203.875 ) ( 425 -120 203.875 ) +1shoot [ 0 -1 0 0 ] [ -1 0 -6.123233995736766e-17 40 ] 0 1 1
-( 432 -96 195.875 ) ( 432 -96 194.875 ) ( 433 -96 195.875 ) +1shoot [ -6.123233995736766e-17 0 1 0 ] [ -1 0 -6.123233995736766e-17 40 ] 270 1 1
-( 424 -88 195.875 ) ( 424 -87 195.875 ) ( 424 -88 194.875 ) +1shoot [ 6.123233995736766e-17 0 -1 0 ] [ 0 -1 0 0 ] 0 1 1
+( 376 -120 204.875 ) ( 376 -120 203.875 ) ( 376 -119 204.875 ) +1shoot [ -6.123233995736766e-17 0 1 0 ] [ 0 -1 0 0 ] 0 1 1
+( 424 -144 204.875 ) ( 425 -144 204.875 ) ( 424 -144 203.875 ) +1shoot [ 6.123233995736766e-17 0 -1 0 ] [ -1 0 -6.123233995736766e-17 40 ] 90 1 1
+( 432 -88 196.875 ) ( 433 -88 196.875 ) ( 432 -87 196.875 ) +1shoot [ 0 1 0 0 ] [ -1 0 -6.123233995736766e-17 40 ] 0 1 1
+( 424 -120 204.875 ) ( 424 -119 204.875 ) ( 425 -120 204.875 ) +1shoot [ 0 -1 0 0 ] [ -1 0 -6.123233995736766e-17 40 ] 0 1 1
+( 432 -96 196.875 ) ( 432 -96 195.875 ) ( 433 -96 196.875 ) +1shoot [ -6.123233995736766e-17 0 1 0 ] [ -1 0 -6.123233995736766e-17 40 ] 270 1 1
+( 424 -88 196.875 ) ( 424 -87 196.875 ) ( 424 -88 195.875 ) +1shoot [ 6.123233995736766e-17 0 -1 0 ] [ 0 -1 0 0 ] 0 1 1
 }
 }
 // entity 5
@@ -5339,13 +5339,13 @@
 // entity 18
 {
 "classname" "monster_dog"
-"origin" "320 -1016 280"
+"origin" "313 -1016 280"
 "angle" "90"
 }
 // entity 19
 {
 "classname" "monster_dog"
-"origin" "432 -1016 280"
+"origin" "422 -1016 280"
 "angle" "90"
 }
 // entity 20
@@ -5373,7 +5373,7 @@
 // entity 22
 {
 "classname" "func_door"
-"targetname" "door2"
+"targetname" "doorK"
 "angle" "360"
 "wait" "25"
 // brush 0
@@ -5390,7 +5390,7 @@
 {
 "classname" "func_door"
 "angle" "180"
-"targetname" "door2"
+"targetname" "doorK"
 "wait" "25"
 // brush 0
 {
@@ -5429,7 +5429,7 @@
 "classname" "func_door"
 "targetname" "knighttrap1"
 "angle" "-2"
-"lip" "-8"
+"wait" "-1"
 // brush 0
 {
 ( -168 -496 0 ) ( -168 -495 0 ) ( -168 -496 1 ) 128_brown_2 [ 0 1.0000000000000002 0 0 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
@@ -7862,31 +7862,25 @@
 }
 // entity 83
 {
-"classname" "weapon_supershotgun"
-"origin" "88 -1472 -400"
-"angle" "90"
+"classname" "item_shells"
+"origin" "136 -1440 -400"
 }
 // entity 84
 {
 "classname" "item_shells"
-"origin" "136 -1440 -400"
-}
-// entity 85
-{
-"classname" "item_shells"
 "origin" "136 -1520 -400"
 }
-// entity 86
+// entity 85
 {
 "classname" "item_rockets"
 "origin" "-264 -2000 -400"
 }
-// entity 87
+// entity 86
 {
 "classname" "item_rockets"
 "origin" "-264 -2080 -400"
 }
-// entity 88
+// entity 87
 {
 "classname" "monster_knight"
 "origin" "-400 -2032 -376"
@@ -7894,7 +7888,7 @@
 "spawnflags" "1"
 "targetname" "tunneldoor1"
 }
-// entity 89
+// entity 88
 {
 "classname" "monster_wizard"
 "origin" "552 -1456 -376"
@@ -7902,7 +7896,7 @@
 "spawnflags" "1"
 "targetname" "tunneldoor3"
 }
-// entity 90
+// entity 89
 {
 "classname" "monster_wizard"
 "origin" "400 -1456 -376"
@@ -7910,7 +7904,7 @@
 "spawnflags" "1"
 "targetname" "tunneldoor3"
 }
-// entity 91
+// entity 90
 {
 "classname" "monster_ogre"
 "origin" "384 -2032 -376"
@@ -7918,58 +7912,58 @@
 "spawnflags" "1"
 "targetname" "tunneldoor3"
 }
-// entity 92
+// entity 91
 {
 "classname" "item_health"
 "origin" "608 -2016 -400"
 }
-// entity 93
+// entity 92
 {
 "classname" "item_health"
 "origin" "608 -2080 -400"
 "spawnflags" "2"
 }
-// entity 94
+// entity 93
 {
 "classname" "item_spikes"
 "origin" "512 -2016 -400"
 }
-// entity 95
+// entity 94
 {
 "classname" "item_spikes"
 "origin" "512 -2080 -400"
 }
-// entity 96
+// entity 95
 {
 "classname" "item_health"
 "origin" "128 -2032 -400"
 }
-// entity 97
+// entity 96
 {
 "classname" "item_health"
 "origin" "-176 -2016 -400"
 }
-// entity 98
+// entity 97
 {
 "classname" "item_health"
 "origin" "-272 -1448 -400"
 }
-// entity 99
+// entity 98
 {
 "classname" "item_shells"
 "origin" "-272 -1520 -400"
 }
-// entity 100
+// entity 99
 {
 "classname" "item_rockets"
 "origin" "608 -1440 -400"
 }
-// entity 101
+// entity 100
 {
 "classname" "item_rockets"
 "origin" "608 -1504 -400"
 }
-// entity 102
+// entity 101
 {
 "classname" "func_group"
 // brush 0
@@ -8036,7 +8030,7 @@
 ( 928 -1680 -528 ) ( 896 -1936 -528 ) ( 896 -1936 -400 ) 64_brown_3 [ -0.12403473458920838 -0.9922778767136693 0 0 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
 }
 }
-// entity 103
+// entity 102
 {
 "classname" "func_group"
 // brush 0
@@ -8103,7 +8097,7 @@
 ( 1152 -2192 -416 ) ( 1152 -2193 -416 ) ( 1152 -2192 -415 ) 64_brown_3 [ 0 -1.0000000000000002 0 0 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
 }
 }
-// entity 104
+// entity 103
 {
 "classname" "func_group"
 // brush 0
@@ -8147,7 +8141,7 @@
 ( 1152 -2192 240 ) ( 1152 -2192 256 ) ( 992 -2176 256 ) 64_brown_2 [ 1.0000000000000002 0 0 0 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
 }
 }
-// entity 105
+// entity 104
 {
 "classname" "func_group"
 // brush 0
@@ -8191,7 +8185,7 @@
 ( 1152 -1904 256 ) ( 1152 -1680 256 ) ( 1152 -1680 240 ) 64_brown_2 [ 0 -1.0000000000000002 0 -48 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
 }
 }
-// entity 106
+// entity 105
 {
 "classname" "func_group"
 // brush 0
@@ -8251,7 +8245,7 @@
 ( 1024 -2192 -432 ) ( 1024 -2193 -432 ) ( 1024 -2192 -431 ) 128_brown_2 [ 0 -1.0000000000000002 0 0 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
 }
 }
-// entity 107
+// entity 106
 {
 "classname" "func_group"
 // brush 0
@@ -8311,7 +8305,7 @@
 ( 928 -1680 -432 ) ( 896 -1936 -432 ) ( 896 -1936 -304 ) 128_brown_2 [ -0.12403473458920838 -0.9922778767136693 0 0 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
 }
 }
-// entity 108
+// entity 107
 {
 "classname" "func_plat"
 "height" "688"
@@ -8540,12 +8534,12 @@
 ( -784 -2416 880 ) ( -64 -2128 1008 ) ( -64 -2128 880 ) 128_brown_2 [ -0.9284766908852597 -0.3713906763541039 0 0 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
 }
 }
-// entity 109
+// entity 108
 {
 "classname" "item_key2"
 "origin" "832 -1744 -376"
 }
-// entity 110
+// entity 109
 {
 "classname" "func_door"
 "angle" "-2"
@@ -8823,7 +8817,7 @@
 ( -72 -2267 512 ) ( -72 -2267.125 512 ) ( -72 -2267 512.125 ) metal2_8 [ 0 -8.000000000000002 0 -24 ] [ 0 0 -8.000000000000002 48 ] 0 1 1
 }
 }
-// entity 111
+// entity 110
 {
 "classname" "func_door"
 "angle" "-2"
@@ -9101,7 +9095,7 @@
 ( -54 -1987 513 ) ( -54 -1987 513.125 ) ( -54 -1986.875 513 ) metal2_8 [ 0 8 0 24 ] [ 0 0 -8 48 ] 0 1 1
 }
 }
-// entity 112
+// entity 111
 {
 "classname" "trigger_multiple"
 "target" "arenabars"
@@ -9115,34 +9109,34 @@
 ( 32 -2032 496 ) ( 32 -2032 497 ) ( 32 -2031 496 ) trigger [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 }
 }
-// entity 113
+// entity 112
 {
 "classname" "monster_knight"
 "origin" "880 -2128 -168"
 "spawnflags" "1"
 "" "stairknight"
 }
-// entity 114
+// entity 113
 {
 "classname" "weapon_grenadelauncher"
 "origin" "232 -536 256"
 }
-// entity 115
+// entity 114
 {
 "classname" "item_rockets"
 "origin" "-136 -600 256"
 }
+// entity 115
+{
+"classname" "item_health"
+"origin" "161 -1056 256"
+}
 // entity 116
 {
 "classname" "item_health"
-"origin" "160 -1056 256"
+"origin" "161 -1008 256"
 }
 // entity 117
-{
-"classname" "item_health"
-"origin" "160 -1008 256"
-}
-// entity 118
 {
 "classname" "func_group"
 // brush 0
@@ -9226,7 +9220,7 @@
 ( 296 -608 200 ) ( 296 -608 201 ) ( 296 -607 200 ) 64_brown_1 [ 1.1102230246251565e-16 -1 0 16 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
 }
 }
-// entity 119
+// entity 118
 {
 "classname" "func_group"
 // brush 0
@@ -9310,7 +9304,7 @@
 ( 8 -608 200 ) ( 8 -608 201 ) ( 8 -607 200 ) 64_brown_1 [ 1.1102230246251565e-16 -1 0 16 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
 }
 }
-// entity 120
+// entity 119
 {
 "classname" "func_group"
 // brush 0
@@ -9394,7 +9388,7 @@
 ( 8 -544 200 ) ( 8 -544 201 ) ( 8 -543 200 ) 64_brown_1 [ 1.1102230246251565e-16 -1 0 16 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
 }
 }
-// entity 121
+// entity 120
 {
 "classname" "func_group"
 // brush 0
@@ -9478,7 +9472,7 @@
 ( 360 -728 200 ) ( 360 -728 201 ) ( 360 -727 200 ) 64_brown_1 [ 1.1102230246251565e-16 -1 0 16 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
 }
 }
-// entity 122
+// entity 121
 {
 "classname" "func_group"
 // brush 0
@@ -9562,19 +9556,19 @@
 ( 480 -1040 200 ) ( 480 -1040 201 ) ( 480 -1039 200 ) 64_brown_1 [ 1.1102230246251565e-16 -1 0 16 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
 }
 }
-// entity 123
+// entity 122
 {
 "classname" "monster_wizard"
 "origin" "144 -2168 -32"
 "spawnflags" "1"
 }
-// entity 124
+// entity 123
 {
 "classname" "monster_ogre"
 "origin" "168 -2120 -168"
 "spawnflags" "1"
 }
-// entity 125
+// entity 124
 {
 "classname" "func_group"
 // brush 0
@@ -9658,27 +9652,27 @@
 ( -1392 -1912 -248 ) ( -1392 -1912 -247 ) ( -1392 -1911 -248 ) 64_brown_1 [ 1.1102230246251565e-16 -1 0 16 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
 }
 }
-// entity 126
+// entity 125
 {
 "classname" "item_cells"
 "origin" "640 -2032 448"
 }
-// entity 127
+// entity 126
 {
 "classname" "item_cells"
 "origin" "592 -2032 448"
 }
-// entity 128
+// entity 127
 {
 "classname" "item_health"
 "origin" "624 -2264 448"
 }
-// entity 129
+// entity 128
 {
 "classname" "item_health"
 "origin" "584 -2264 448"
 }
-// entity 130
+// entity 129
 {
 "classname" "trigger_multiple"
 "target" "knight1"
@@ -9693,27 +9687,27 @@
 ( 32 -2032 496 ) ( 32 -2032 497 ) ( 32 -2031 496 ) trigger [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 }
 }
-// entity 131
+// entity 130
 {
 "classname" "item_spikes"
 "origin" "-144 -2136 496"
 }
-// entity 132
+// entity 131
 {
 "classname" "item_spikes"
 "origin" "-80 -2088 496"
 }
-// entity 133
+// entity 132
 {
 "classname" "item_rockets"
 "origin" "-80 -2200 496"
 }
-// entity 134
+// entity 133
 {
 "classname" "item_rockets"
 "origin" "-24 -2144 496"
 }
-// entity 135
+// entity 134
 {
 "classname" "func_group"
 // brush 0
@@ -9797,7 +9791,7 @@
 ( 544 -1992 200 ) ( 544 -1992 201 ) ( 544 -1991 200 ) 64_brown_1 [ 1.1102230246251565e-16 -1 0 16 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
 }
 }
-// entity 136
+// entity 135
 {
 "classname" "func_group"
 // brush 0
@@ -9881,7 +9875,7 @@
 ( 544 -2216 200 ) ( 544 -2216 201 ) ( 544 -2215 200 ) 64_brown_1 [ 1.1102230246251565e-16 -1 0 16 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
 }
 }
-// entity 137
+// entity 136
 {
 "classname" "func_group"
 // brush 0
@@ -9965,7 +9959,7 @@
 ( -152 -1504 200 ) ( -152 -1505 200 ) ( -152 -1504 201 ) 64_brown_1 [ 1.1102230246251565e-16 -1 0 8 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
 }
 }
-// entity 138
+// entity 137
 {
 "classname" "func_group"
 // brush 0
@@ -10049,7 +10043,7 @@
 ( 72 -1504 200 ) ( 72 -1505 200 ) ( 72 -1504 201 ) 64_brown_1 [ 1.1102230246251565e-16 -1 0 8 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
 }
 }
-// entity 139
+// entity 138
 {
 "classname" "func_group"
 // brush 0
@@ -10133,7 +10127,7 @@
 ( -640 -2016 192 ) ( -640 -2017 192 ) ( -640 -2016 193 ) 64_brown_1 [ 1.1102230246251565e-16 -1 0 -16 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
 }
 }
-// entity 140
+// entity 139
 {
 "classname" "func_group"
 // brush 0
@@ -10217,22 +10211,22 @@
 ( -640 -2240 192 ) ( -640 -2241 192 ) ( -640 -2240 193 ) 64_brown_1 [ 1.1102230246251565e-16 -1 0 -16 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
 }
 }
-// entity 141
+// entity 140
 {
 "classname" "monster_knight"
 "origin" "-1344 -1712 832"
 }
-// entity 142
+// entity 141
 {
 "classname" "monster_knight"
 "origin" "-1328 -1960 832"
 }
-// entity 143
+// entity 142
 {
 "classname" "monster_knight"
 "origin" "-1328 -1856 832"
 }
-// entity 144
+// entity 143
 {
 "classname" "trigger_teleport"
 "targetname" "knight1"
@@ -10247,7 +10241,7 @@
 ( -1344 -1704 816 ) ( -1344 -1704 817 ) ( -1344 -1703 816 ) 64_brown_1 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 }
 }
-// entity 145
+// entity 144
 {
 "classname" "trigger_teleport"
 "targetname" "knight2"
@@ -10262,7 +10256,7 @@
 ( -1320 -1848 816 ) ( -1320 -1848 817 ) ( -1320 -1847 816 ) 64_brown_1 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 }
 }
-// entity 146
+// entity 145
 {
 "classname" "trigger_teleport"
 "targetname" "knight2"
@@ -10277,7 +10271,7 @@
 ( -1320 -1960 816 ) ( -1320 -1960 817 ) ( -1320 -1959 816 ) 64_brown_1 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 }
 }
-// entity 147
+// entity 146
 {
 "classname" "trigger_relay"
 "origin" "-1256 -1768 816"
@@ -10285,17 +10279,17 @@
 "targetname" "knight1"
 "target" "knight2"
 }
-// entity 148
+// entity 147
 {
 "classname" "monster_wizard"
 "origin" "-1520 -1976 832"
 }
-// entity 149
+// entity 148
 {
 "classname" "monster_wizard"
 "origin" "-1528 -1704 832"
 }
-// entity 150
+// entity 149
 {
 "classname" "trigger_relay"
 "origin" "-1520 -1816 816"
@@ -10303,7 +10297,7 @@
 "delay" "1.5"
 "target" "wiz4"
 }
-// entity 151
+// entity 150
 {
 "classname" "trigger_teleport"
 "targetname" "wiz4"
@@ -10318,7 +10312,7 @@
 ( -1528 -1704 816 ) ( -1528 -1704 817 ) ( -1528 -1703 816 ) 64_brown_1 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 }
 }
-// entity 152
+// entity 151
 {
 "classname" "trigger_teleport"
 "targetname" "wiz4"
@@ -10333,35 +10327,35 @@
 ( -1512 -1984 816 ) ( -1512 -1984 817 ) ( -1512 -1983 816 ) 64_brown_1 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 }
 }
-// entity 153
+// entity 152
 {
 "classname" "info_teleport_destination"
 "origin" "224 -1784 472"
 "angle" "270"
 "targetname" "dknight1"
 }
-// entity 154
+// entity 153
 {
 "classname" "info_teleport_destination"
 "origin" "240 -2352 472"
 "angle" "90"
 "targetname" "dknight2"
 }
-// entity 155
+// entity 154
 {
 "classname" "info_teleport_destination"
 "origin" "144 -1712 568"
 "angle" "270"
 "targetname" "dwiz5"
 }
-// entity 156
+// entity 155
 {
 "classname" "info_teleport_destination"
 "origin" "480 -2104 568"
 "angle" "180"
 "targetname" "dwiz6"
 }
-// entity 157
+// entity 156
 {
 "classname" "func_group"
 // brush 0
@@ -10401,87 +10395,117 @@
 ( 0 -2624 688 ) ( 0 -2568 688 ) ( -32 -2592 448 ) 64_brown_1 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 }
 }
-// entity 158
+// entity 157
 {
 "classname" "weapon_supernailgun"
 "origin" "-64 -2712 448"
 }
-// entity 159
+// entity 158
 {
 "classname" "item_spikes"
 "origin" "-80 -2768 448"
 }
-// entity 160
+// entity 159
 {
 "classname" "item_health"
 "origin" "-80 -2816 448"
 }
-// entity 161
+// entity 160
 {
 "classname" "monster_dog"
 "origin" "24 -1824 472"
 "angle" "90"
 }
-// entity 162
+// entity 161
 {
 "classname" "monster_dog"
 "origin" "-120 -1824 472"
 "angle" "90"
 }
-// entity 163
+// entity 162
 {
 "classname" "monster_ogre"
 "origin" "-64 -1632 472"
 "angle" "90"
 }
-// entity 164
+// entity 163
 {
 "classname" "weapon_rocketlauncher"
 "origin" "-296 -2024 -400"
 "angle" "180"
 }
-// entity 165
+// entity 164
 {
 "classname" "item_spikes"
 "origin" "-1376 -2032 -208"
 }
-// entity 166
+// entity 165
 {
 "classname" "item_health"
 "origin" "-1336 -2016 -208"
 }
-// entity 167
+// entity 166
 {
 "classname" "item_shells"
 "origin" "-1328 -1968 -208"
 }
-// entity 168
+// entity 167
 {
 "classname" "info_player_start"
 "origin" "176 -120 32"
 }
-// entity 169
+// entity 168
 {
 "classname" "item_shells"
 "origin" "328 376 192"
 }
-// entity 170
+// entity 169
 {
 "classname" "item_shells"
 "origin" "408 376 192"
 }
-// entity 171
+// entity 170
 {
 "classname" "item_spikes"
 "origin" "720 -72 0"
 }
-// entity 172
+// entity 171
 {
 "classname" "item_spikes"
 "origin" "720 -160 0"
 }
-// entity 173
+// entity 172
 {
 "classname" "item_health"
 "origin" "-88 -2144 496"
+}
+// entity 173
+{
+"classname" "weapon_supershotgun"
+"origin" "-49 -1929 451"
+}
+// entity 174
+{
+"classname" "item_shells"
+"origin" "-128 -1954 448"
+}
+// entity 175
+{
+"classname" "item_shells"
+"origin" "6 -1955 448"
+}
+// entity 176
+{
+"classname" "func_button"
+"angle" "180"
+"target" "door2"
+// brush 0
+{
+( -300 -847 322 ) ( -300 -846 322 ) ( -300 -847 323 ) +0button_1 [ 0 -1 0 17 ] [ 0 0 -1 -22 ] 0 1 1
+( -300 -847 322 ) ( -300 -847 323 ) ( -299 -847 322 ) +0button_1 [ 1 0 0 4 ] [ 0 0 -1 -22 ] 0 1 1
+( -300 -847 298 ) ( -299 -847 298 ) ( -300 -846 298 ) +0button_1 [ -1 0 0 -4 ] [ 0 -1 0 17 ] 0 1 1
+( -292 -839 330 ) ( -292 -838 330 ) ( -291 -839 330 ) +0button_1 [ 1 0 0 4 ] [ 0 -1 0 17 ] 0 1 1
+( -292 -815 330 ) ( -291 -815 330 ) ( -292 -815 331 ) +0button_1 [ -1 0 0 -4 ] [ 0 0 -1 -22 ] 0 1 1
+( -292 -839 330 ) ( -292 -839 331 ) ( -292 -838 330 ) +0button_1 [ 0 1 0 -17 ] [ 0 0 -1 -22 ] 0 1 1
+}
 }
