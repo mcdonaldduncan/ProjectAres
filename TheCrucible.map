@@ -5804,6 +5804,7 @@
 "classname" "monster_knight"
 "origin" "-8 -384 88"
 "angle" "0"
+"spawnflags" "1"
 }
 // entity 13
 {
