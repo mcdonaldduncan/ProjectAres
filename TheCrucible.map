@@ -4,7 +4,7 @@
 {
 "mapversion" "220"
 "classname" "worldspawn"
-"wad" "C:/QuakeDev/wads/id1.wad;C:/QuakeDev/wads/Crucible1.wad;C:/QuakeDev/wads/prototype_1_3.wad"
+"wad" "C:/QuakeDev/wads/id1.wad;C:/QuakeDev/wads/Crucible1.wad;C:/QuakeDev/wads/prototype_1_3.wad;C:/QuakeDev/wads/rogue.wad"
 // brush 0
 {
 ( 32 0 112 ) ( 32 1 112 ) ( 32 0 113 ) city5_8 [ 0 1.0000000000000002 0 0 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
@@ -13694,7 +13694,7 @@
 // entity 290
 {
 "classname" "monster_hell_knight"
-"origin" "1920 -2304 312"
+"origin" "1912 -2304 312"
 "angle" "270"
 "target" "keyroom2"
 "spawnflags" "1"
@@ -14618,4 +14618,22 @@
 ( 0 -2912 464 ) ( 1 -2912 464 ) ( 0 -2912 465 ) trigger [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
 ( 0 -2912 464 ) ( 0 -2912 465 ) ( 0 -2911 464 ) trigger [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 }
+}
+// entity 375
+{
+"classname" "item_cells"
+"origin" "1944 -2320 288"
+"spawnflags" "1"
+}
+// entity 376
+{
+"classname" "item_cells"
+"origin" "1848 -2320 288"
+"spawnflags" "1"
+}
+// entity 377
+{
+"classname" "item_health"
+"origin" "1624 -2976 288"
+"spawnflags" "2"
 }
