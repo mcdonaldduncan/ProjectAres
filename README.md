@@ -4,3 +4,9 @@ The Crucible - A high octane single player quake experience designed in the tren
 
 Check out the project wiki for an overview of the process.
 [Project Wiki](https://github.com/mcdonaldduncan/ProjectAres/wiki)
+
+![1](https://raw.githubusercontent.com/mcdonaldduncan/SinglePlayerDesign_Quake/main/1x/fte-20211214170330-0.png)
+
+![1](https://raw.githubusercontent.com/mcdonaldduncan/SinglePlayerDesign_Quake/main/1x/fte-20211214170426-0.png)
+
+![1](https://raw.githubusercontent.com/mcdonaldduncan/SinglePlayerDesign_Quake/main/1x/Screenshot1.png)
